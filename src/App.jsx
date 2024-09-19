@@ -14,7 +14,7 @@ const App = () => {
   return (
     <BrowserRouter>
       <div
-        className={`font-['Wicked_Mouse_Regular'] ${
+        className={`font-wickedMouse ${
           theme === "dark"
             ? "bg-[#1e1e1e] text-white"
             : "bg-gradient-to-r from-transparent to-green-300/50"
