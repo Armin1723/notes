@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: 'Wicked Mouse Regular';
+  font-family: 'Wicked Mouse';
   src: url('/fonts/WickedMouse-aGoK.ttf') format('ttf');
 }
 
